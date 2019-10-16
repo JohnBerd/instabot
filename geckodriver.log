@@ -1201,3 +1201,49 @@ IPDL protocol error: Handler returned error code!
 1571238082701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8DzkXY"
 1571238083820	Marionette	INFO	Listening on port 42969
 1571238083909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571238829448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK64OtV"
+1571238830584	Marionette	INFO	Listening on port 37353
+1571238830653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571238990041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQBNECp"
+1571238991163	Marionette	INFO	Listening on port 36791
+1571238991247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571239345746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee38Aep"
+1571239346901	Marionette	INFO	Listening on port 37953
+1571239346952	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1571242907904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWY7aui"
+1571242909048	Marionette	INFO	Listening on port 33783
+1571242909110	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571242966904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1nnXiZ"
+1571242968056	Marionette	INFO	Listening on port 41307
+1571242968115	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571242989913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8kPjnp"
+1571242991031	Marionette	INFO	Listening on port 38651
+1571242991117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571243974016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXu0b1E"
+*** You are running in headless mode.
+1571243974988	Marionette	INFO	Listening on port 45655
+1571243975024	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12186, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1571245562822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNo2UhN"
+1571245563919	Marionette	INFO	Listening on port 37015
+1571245563927	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571245610612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileah2JAz"
+1571245611749	Marionette	INFO	Listening on port 39107
+1571245611818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571245647838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileopvDiL"
+1571245648989	Marionette	INFO	Listening on port 43891
+1571245649047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/608f4143f2b2.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571246363775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemu61LP"
+1571246364854	Marionette	INFO	Listening on port 40075
+1571246364890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571247509581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYAvl0u"
+1571247510711	Marionette	INFO	Listening on port 36723
+1571247510787	Marionette	WARN	TLS certificate errors will be ignored for this session
