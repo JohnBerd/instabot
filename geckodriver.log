@@ -1,0 +1,1181 @@
+1571129954534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileydyH8P"
+1571129955693	Marionette	INFO	Listening on port 37219
+1571129955740	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130021841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKaudm"
+1571130022983	Marionette	INFO	Listening on port 39615
+1571130023054	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:15931): dconf-WARNING **: 11:00:41.731: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130056799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXl1ewo"
+1571130057956	Marionette	INFO	Listening on port 32805
+1571130058006	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:16121): dconf-WARNING **: 11:01:16.971: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130213382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile14LXjM"
+1571130214541	Marionette	INFO	Listening on port 34383
+1571130214589	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130236933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilernDbKP"
+1571130238135	Marionette	INFO	Listening on port 39615
+1571130238147	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130482412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUu3yy2"
+1571130483535	Marionette	INFO	Listening on port 44621
+1571130483617	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130592271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezNzUii"
+1571130593513	Marionette	INFO	Listening on port 45277
+1571130593586	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:17735): dconf-WARNING **: 11:10:19.979: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.instagram.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1571130642812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile76pvLg"
+1571130644067	Marionette	INFO	Listening on port 42037
+1571130644123	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130687195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCy3Oz5"
+1571130688503	Marionette	INFO	Listening on port 39035
+1571130688602	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:18217): dconf-WARNING **: 11:11:30.076: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130740607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXhSSma"
+1571130741832	Marionette	INFO	Listening on port 37905
+1571130741912	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130783291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletXX5T3"
+1571130784580	Marionette	INFO	Listening on port 41395
+1571130784596	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130945806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3QILdB"
+1571130947009	Marionette	INFO	Listening on port 42389
+1571130947112	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571130962605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiDPtAQ"
+1571130963893	Marionette	INFO	Listening on port 36265
+1571130963912	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571131003714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ2tOSc"
+1571131004960	Marionette	INFO	Listening on port 42559
+1571131005023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571131224852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKHhcRN"
+1571131226140	Marionette	INFO	Listening on port 39863
+1571131226160	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571144077624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEvoUFB"
+1571144078991	Marionette	INFO	Listening on port 36345
+1571144079040	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.instagram.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.instagram.com
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1571144701330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBFwaos"
+1571144702770	Marionette	INFO	Listening on port 43533
+1571144702838	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27007, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 27007, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 27007, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 27007, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571144730041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecRpeRH"
+1571144731495	Marionette	INFO	Listening on port 45353
+1571144731551	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.instagram.com
+1571144809476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewzuj8k"
+1571144810919	Marionette	INFO	Listening on port 33173
+1571144810983	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571144904606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeu0uns"
+1571144905980	Marionette	INFO	Listening on port 42923
+1571144906018	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145019387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJYWwm0"
+1571145020796	Marionette	INFO	Listening on port 38051
+1571145020903	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145108830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevkUO8q"
+1571145110177	Marionette	INFO	Listening on port 46347
+1571145110244	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145142183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile15yX0v"
+1571145143577	Marionette	INFO	Listening on port 35385
+1571145143598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571145207509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePuNKde"
+1571145208887	Marionette	INFO	Listening on port 34661
+1571145208929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145404646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg2YcWp"
+1571145406020	Marionette	INFO	Listening on port 37633
+1571145406051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145443886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UWujR"
+1571145445227	Marionette	INFO	Listening on port 46459
+1571145445293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145534149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4YcbvD"
+1571145535564	Marionette	INFO	Listening on port 33603
+1571145535659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145618226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuW8eSp"
+1571145619623	Marionette	INFO	Listening on port 46275
+1571145619638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145660803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDst0rp"
+1571145662189	Marionette	INFO	Listening on port 44695
+1571145662211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145690119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4duFT1"
+1571145691473	Marionette	INFO	Listening on port 44775
+1571145691525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571145739124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepdSejY"
+1571145740631	Marionette	INFO	Listening on port 45989
+1571145740740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145770540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyCF9PP"
+1571145771915	Marionette	INFO	Listening on port 36813
+1571145771962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145887229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVMm2mW"
+1571145888615	Marionette	INFO	Listening on port 37131
+1571145888637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+[Parent 32167, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571145995677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile18hs34"
+1571145997095	Marionette	INFO	Listening on port 44777
+1571145997184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+1571146127598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej18Dg1"
+1571146128948	Marionette	INFO	Listening on port 35649
+1571146129011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571146153487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeF3qUY"
+1571146154862	Marionette	INFO	Listening on port 43985
+1571146154907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571146183724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVFyBVr"
+1571146185109	Marionette	INFO	Listening on port 41877
+1571146185134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571146209318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledZT8Ip"
+1571146210661	Marionette	INFO	Listening on port 43643
+1571146210735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571146303003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOex5y7"
+1571146304303	Marionette	INFO	Listening on port 43531
+1571146304314	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571146376983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBXDpAI"
+1571146378407	Marionette	INFO	Listening on port 39879
+1571146378490	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571146446350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4I25cl"
+1571146447688	Marionette	INFO	Listening on port 33947
+1571146447761	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7
+onDisconnect<@resource://devtools/server/child.js:115:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 63, column: 5
+console.error: "Handler function threw an exception: TypeError: this.walker is null\nStack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5\nparent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nremoveActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27\nremoveActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9\n_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7\nexit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5\nContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nonClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35\nonClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7\nonDisconnect<@resource://devtools/server/child.js:115:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 63, column: 5"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1571146618941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexM6Toc"
+1571146620319	Marionette	INFO	Listening on port 46347
+1571146620357	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571146663768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNViTak"
+1571146665112	Marionette	INFO	Listening on port 44263
+1571146665176	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571146956818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehD71ZX"
+1571146958193	Marionette	INFO	Listening on port 39933
+1571146958228	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571147213813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ5ynVp"
+1571147215173	Marionette	INFO	Listening on port 32769
+1571147215227	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571147258606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesNHp52"
+1571147260000	Marionette	INFO	Listening on port 35957
+1571147260014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571147326828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehFTmnX"
+1571147328211	Marionette	INFO	Listening on port 41527
+1571147328235	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571147369456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEAdbUh"
+1571147370875	Marionette	INFO	Listening on port 43301
+1571147370961	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerAsyncCommons.js/abe2dc92f83b.js, line 131: TypeError: this.props is undefined
+1571147566534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerqxrCa"
+1571147567874	Marionette	INFO	Listening on port 38603
+1571147567940	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7
+onDisconnect<@resource://devtools/server/child.js:115:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 63, column: 5
+console.error: "Handler function threw an exception: TypeError: this.walker is null\nStack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5\nparent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nremoveActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27\nremoveActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9\n_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7\nexit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5\nContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nonClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35\nonClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7\nonDisconnect<@resource://devtools/server/child.js:115:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 63, column: 5"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1571147788013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYMQU0a"
+1571147789306	Marionette	INFO	Listening on port 34089
+1571147789321	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7
+onDisconnect<@resource://devtools/server/child.js:115:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 63, column: 5
+console.error: "Handler function threw an exception: TypeError: this.walker is null\nStack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5\nparent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nremoveActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27\nremoveActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9\n_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7\nexit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5\nContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nonClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35\nonClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7\nonDisconnect<@resource://devtools/server/child.js:115:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 63, column: 5"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1571148206660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO7F8DP"
+1571148208054	Marionette	INFO	Listening on port 35587
+1571148208068	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571148261664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA60TjX"
+1571148263005	Marionette	INFO	Listening on port 44821
+1571148263072	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571150110634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA03FzK"
+1571150112044	Marionette	INFO	Listening on port 36741
+1571150112150	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571150147436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaTyFYM"
+1571150148845	Marionette	INFO	Listening on port 45409
+1571150148950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571150614173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFyHEHS"
+1571150615870	Marionette	INFO	Listening on port 35623
+1571150615898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571150753541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIE1AOJ"
+1571150755227	Marionette	INFO	Listening on port 35087
+1571150755253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571150797751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepPCS4p"
+1571150799602	Marionette	INFO	Listening on port 41869
+1571150799657	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7
+onDisconnect<@resource://devtools/server/child.js:115:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 63, column: 5
+console.error: "Handler function threw an exception: TypeError: this.walker is null\nStack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5\nparent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nremoveActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27\nremoveActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9\n_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7\nexit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5\nContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nonClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35\nonClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7\nonDisconnect<@resource://devtools/server/child.js:115:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 63, column: 5"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571150850796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUCi4Wj"
+1571150852638	Marionette	INFO	Listening on port 42825
+1571150852715	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7
+onDisconnect<@resource://devtools/server/child.js:115:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 63, column: 5
+console.error: "Handler function threw an exception: TypeError: this.walker is null\nStack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:63:5\nparent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/node.js:72:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:89:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector/inspector.js:87:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nremoveActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:27\nremoveActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1539:9\n_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:904:7\nexit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:499:5\nContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/content.js:70:3\ndestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:482:5\nremoveActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:260:7\nAPDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:223:7\nonClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:35\nonClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1869:5\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:755:7\nclose@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1478:7\nonDisconnect<@resource://devtools/server/child.js:115:7\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 63, column: 5"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571150926667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEcdQlS"
+1571150928516	Marionette	INFO	Listening on port 39631
+1571150928576	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1571151191888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXwnpt7"
+1571151193263	Marionette	INFO	Listening on port 45085
+1571151193307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571151289635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilen1DwpD"
+1571151291090	Marionette	INFO	Listening on port 35403
+1571151291158	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1571152105860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile72yYty"
+1571152107267	Marionette	INFO	Listening on port 42903
+1571152107367	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571152153593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenurppd"
+1571152154963	Marionette	INFO	Listening on port 35433
+1571152155000	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571152255750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFHzlqW"
+1571152257152	Marionette	INFO	Listening on port 44331
+1571152257160	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571152328891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN3SSn1"
+1571152330329	Marionette	INFO	Listening on port 34751
+1571152330399	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571152591061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNekNql"
+1571152592461	Marionette	INFO	Listening on port 45349
+1571152592472	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571152710444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKskuBY"
+1571152711876	Marionette	INFO	Listening on port 44303
+1571152711960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571154317626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG6CqSb"
+1571154319035	Marionette	INFO	Listening on port 39329
+1571154319143	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571154347663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilethazsp"
+1571154349158	Marionette	INFO	Listening on port 45175
+1571154349175	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571155133156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile618Gu5"
+1571155135197	Marionette	INFO	Listening on port 37639
+1571155135275	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1571155584639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIGaIMN"
+1571155586199	Marionette	INFO	Listening on port 35655
+1571155586258	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571155655255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7jf9kb"
+1571155656708	Marionette	INFO	Listening on port 46485
+1571155656767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571161303687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWsXdn6"
+1571161304894	Marionette	INFO	Listening on port 37719
+1571161304992	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571161379005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOxqmMn"
+1571161380213	Marionette	INFO	Listening on port 36929
+1571161380311	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571161488882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9Uc6ER"
+1571161490108	Marionette	INFO	Listening on port 34303
+1571161490186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571161602011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehC318G"
+1571161603229	Marionette	INFO	Listening on port 46771
+1571161603317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571163190017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOWgDEL"
+1571163191349	Marionette	INFO	Listening on port 40725
+1571163191423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571170063748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu7tMp1"
+1571170065197	Marionette	INFO	Listening on port 46351
+1571170065262	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571170128499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeZF40u"
+1571170129964	Marionette	INFO	Listening on port 38335
+1571170130007	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 17705, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571170165581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBKZbYW"
+1571170167012	Marionette	INFO	Listening on port 42257
+1571170167091	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:17985): dconf-WARNING **: 22:09:53.134: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571170227572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejeGQb2"
+1571170228976	Marionette	INFO	Listening on port 40905
+1571170229077	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571170358748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilempQdON"
+1571170360178	Marionette	INFO	Listening on port 37851
+1571170360254	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:18517): dconf-WARNING **: 22:13:16.720: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571170412632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6JDIUd"
+1571170414029	Marionette	INFO	Listening on port 39295
+1571170414040	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571176030887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNJ176g"
+1571176032980	Marionette	INFO	Listening on port 40277
+1571176033010	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571176155163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesEBnC8"
+1571176156562	Marionette	INFO	Listening on port 43615
+1571176156579	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571176214774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL99o6B"
+1571176216143	Marionette	INFO	Listening on port 45593
+1571176216187	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3776, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571176448327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Du8WW"
+1571176449754	Marionette	INFO	Listening on port 41667
+1571176449832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571176523083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQx6jFW"
+1571176524494	Marionette	INFO	Listening on port 44217
+1571176524589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571176601855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSgwM7f"
+1571176603289	Marionette	INFO	Listening on port 37849
+1571176603365	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571176887380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilentLkTo"
+1571176888743	Marionette	INFO	Listening on port 38165
+1571176888802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571177196715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemtgPt3"
+1571177198215	Marionette	INFO	Listening on port 44391
+1571177198230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571218713788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCf65QC"
+1571218714998	Marionette	INFO	Listening on port 34265
+1571218715102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571218753857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiless2knY"
+1571218755088	Marionette	INFO	Listening on port 37503
+1571218755162	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571218774089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuQk07o"
+1571218775355	Marionette	INFO	Listening on port 44321
+1571218775400	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571218808616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCdGfoz"
+1571218809912	Marionette	INFO	Listening on port 41877
+1571218809936	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219039049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeanLZ6"
+1571219040278	Marionette	INFO	Listening on port 39359
+1571219040353	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219074154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQPP8S2"
+1571219075371	Marionette	INFO	Listening on port 34055
+1571219075468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571219099389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo80Rkx"
+1571219100750	Marionette	INFO	Listening on port 39773
+1571219100796	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219151249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDxlZ0x"
+1571219152536	Marionette	INFO	Listening on port 44081
+1571219152555	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219168237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYcDWdO"
+1571219169596	Marionette	INFO	Listening on port 46563
+1571219169651	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219188256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6t1UX"
+1571219189546	Marionette	INFO	Listening on port 42147
+1571219189561	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219322560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL5oBvM"
+1571219323791	Marionette	INFO	Listening on port 36097
+1571219323864	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219455012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU2HUXo"
+1571219456266	Marionette	INFO	Listening on port 42357
+1571219456325	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571219553187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGeENrn"
+1571219554363	Marionette	INFO	Listening on port 39537
+1571219554393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571219675819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUcn4NP"
+1571219677025	Marionette	INFO	Listening on port 40165
+1571219677132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571219803913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehx73Lz"
+1571219805093	Marionette	INFO	Listening on port 36277
+1571219805119	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571221953129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYLQHg5"
+1571221954323	Marionette	INFO	Listening on port 46221
+1571221954335	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571221971069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUhUePY"
+1571221972267	Marionette	INFO	Listening on port 34915
+1571221972282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571222126021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekRPuFC"
+1571222127205	Marionette	INFO	Listening on port 40645
+1571222127226	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1571222281255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileka0gYk"
+1571222282451	Marionette	INFO	Listening on port 35687
+1571222282460	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1571222410370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP70RB9"
+1571222411578	Marionette	INFO	Listening on port 45779
+1571222411676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571223031105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVSZ5Qa"
+1571223032304	Marionette	INFO	Listening on port 39839
+1571223032311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571223298880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2BLMWh"
+1571223300050	Marionette	INFO	Listening on port 34707
+1571223300089	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1571225659013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8GeJPZ"
+1571225660839	Marionette	INFO	Listening on port 45787
+1571225660922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1571226058830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile17V6xA"
+1571226060293	Marionette	INFO	Listening on port 42581
+1571226060347	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1571226143905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilethb4Ni"
+1571226145260	Marionette	INFO	Listening on port 38419
+1571226145319	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21524, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-esr-kzDiPm/firefox-esr-60.9.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1571226839937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3DynQi"
+1571226841299	Marionette	INFO	Listening on port 34959
+1571226841358	Marionette	WARN	TLS certificate errors will be ignored for this session
