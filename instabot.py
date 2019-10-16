@@ -10,12 +10,24 @@ import time
 import random
 import json
 
-insta_user = ""
-insta_password = ""
+###########################################################
+
+insta_user = "lecunffxavier@gmail.com"
+insta_password = "Chatillon92320"
 hashtag_file = "hashtags.txt"
 number_followers = 50
 max_abos = 200
 nb_days_to_unfollow = 7
+
+############################################################
+
+
+def json_parser():
+    parsed = list()
+    for x in followed['followed']:
+        parsed.append(x['url'])
+    return parsed
+
 
 today = datetime.now()
 today_str = today.strftime("%Y-%m-%d")
@@ -23,7 +35,17 @@ today_str = today.strftime("%Y-%m-%d")
 dateformat = "%Y-%m-%d"
 today = datetime.now()
 
+json_file1 = open('res/followed.json')
+followed = json.load(json_file1)
+json_file = open('magic_book.json')
+following = json.load(json_file)
+p = json_parser()
+
 # check if there is someone to unfollow
+
+
+def is_followed(x):
+    return x in p
 
 
 def datecmp(date_input):
@@ -36,8 +58,16 @@ def follow(url):
     driver.get(url)
     driver.implicitly_wait(5)
     time.sleep(1)
-    driver.find_element_by_xpath("/html/body/span/section/main/div/header/section/div[1]/div[1]/span/span[1]/button").click()
+    if not is_followed(url):
+        driver.find_element_by_xpath("/html/body/span/section/main/div/header/section/div[1]/div[1]/span/span[1]/button").click()
+        followed['followed'].append({
+            "url": url
+        })
+        print("user " + url + " followed")
+    else:
+        print("user " + url + " has already been followed, skiping...")
     time.sleep(1)
+
 
 def unfollow(url):
     driver.get(url)
@@ -45,7 +75,8 @@ def unfollow(url):
     time.sleep(1)
     driver.find_element_by_xpath("/html/body/span/section/main/div/header/section/div[1]/div[1]/span/span[1]/button").click()
     driver.find_element_by_xpath("/html/body/div[3]/div/div/div[3]/button[1]").click()
-    sleep(1)
+    print("user " + url + " unfollowed")
+    time.sleep(1)
 
 
 def scroll_randomly():
@@ -56,22 +87,23 @@ def scroll_randomly():
         driver.execute_script("window.scrollBy(0, -2);")
 
 
+
+
 def check_unfollow():
-    with open('magic_book.json') as json_file:
-        data = json.load(json_file)
-        print(data)
-        i = 0
-        while i < len(data['following']):
-            if datecmp(data['following'][i]['date']):
-                print(data['following'][i]['url'] + "is unfollowed")
-                del data['following'][i]
-                i -= 1
-            i += 1
+    print(following)
+    i = 0
+    while i < len(following['following']):
+        if datecmp(following['following'][i]['date']):
+            print(following['following'][i]['url'] + "is followed")
+            del following['following'][i]
+            i -= 1
+        i += 1
 
     with open('tt', 'w') as outfile:
-        json.dump(data, outfile)
+        json.dump(following, outfile)
 
 # Parsing hashtag file
+
 
 try:
     with open(hashtag_file) as f:
@@ -100,7 +132,9 @@ password.send_keys(insta_password)
 login_btn.click();
 time.sleep(2)
 driver.implicitly_wait(5)
+
 # Main Page
+
 check_unfollow()
 
 search_bar = driver.find_element_by_xpath('/html/body/span/section/nav/div[2]/div/div/div[2]/input')
@@ -142,16 +176,13 @@ for x in potential_targets:
     abo = int(abo_str.replace(',', ''))
     driver.implicitly_wait(5)
     rand = random.randint(0, 5)
-    #driver.execute_script("window.scrollBy(0,"+str(random.randint(0, 1000))+");")
     time.sleep(1)
-    #driver.execute_script("window.scrollBy(0,"+str(random.randint(0, 1000))+");")
     time.sleep(1)
-    #driver.execute_script("window.scrollBy(0);")
     print(x)
     if (abo < max_abos):
         print("Je m'abonne")
         to_follow.append(x)
-        data['following'].append({
+        following['following'].append({
                 'date': today_str,
                 'url': x
             })
@@ -159,7 +190,10 @@ for x in potential_targets:
         print("Je m'abonne pas")
 
 with open('magic_book.json', 'w') as outfile:
-    json.dump(data, outfile)
+    json.dump(following, outfile)
 
 for x in to_follow:
     follow(x)
+
+with open('res/followed.json', 'w') as outfile:
+    json.dump(followed, outfile)
